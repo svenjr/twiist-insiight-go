@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is a simple Go script which will use your Insiight credentials to make a call to get all your followings data.
+This is a simple Go script which will use your [Twiist](https://www.twiist.com/) Insiight credentials to make a call to get all your followings data.
 
-I use this as a self-following mechanism so I can pull my own Twiist data in an easy way. The script sets up the OAuth handshake and gets a token for you that lasts an hour. There is also a function to refresh the token if you wish to alter this to setup a polling.
+I use this as a self-following mechanism so I can pull my own [Twiist pump](https://www.twiist.com/) data in an easy way. The script sets up the OAuth handshake and gets a token for you that lasts an hour. There is also a function to refresh the token if you wish to alter this to setup a polling.
 
 This was an exercise for me as I wanted to see how easy it would be to get this data for a possible Garmin watch integration (view only - no action).
 
