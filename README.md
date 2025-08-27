@@ -48,3 +48,18 @@ Raw API Response:
   }
 ]
 ```
+
+## Setting up Insiight
+
+Since it was not the most obvious thing to me, here are the steps to setup a self-follow from your own Twiist pump:
+
+1. Go to `mytwiistportal.com`
+2. Click on "Create Insiight Account" at the bottom
+3. Setup a new account with a different email than what you have for your main Twiist account
+4. Go back to `mytwiistportal.com` and login to your normal Twiist account
+5. Go to "manage followers"
+6. Add this new email you used for the new Insiight account
+7. Accept the invite via an email that has been sent
+
+Then, you can use the credentials for this new Insiight account here
+
